@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853769787584",
+    "project_id": "androidwebtest-e9dbf",
+    "storage_bucket": "androidwebtest-e9dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853769787584:android:b45d27971e67fc99b23525",
+        "android_client_info": {
+          "package_name": "com.backho.testweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853769787584-376n2edqs1c7tb0ioicpr11in7ke3s36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HKM20NPxTYhPB8RIFGMc1qbXrFqihCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853769787584-376n2edqs1c7tb0ioicpr11in7ke3s36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
